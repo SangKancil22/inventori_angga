@@ -1,3 +1,6 @@
+// username : Sangkancil22
+// password : Sabima22
+
 @extends('layouts.app')
 
 @section('content')
